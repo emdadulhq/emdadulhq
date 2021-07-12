@@ -21,7 +21,7 @@
 <a href="https://twitter.com/emdadulhq"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
 <a href="https://facebook.com/osovo.p"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height=30></a>
 <a href="https://www.linkedin.com/in/md-imdadul-haque-73458756/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
-<a href="emdadulhq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
+<a href=""><img alt="emdadulhq@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://www.instagram.com/emdadulhq"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height=30></a>
 <a href="https://join.skype.com/invite/oj9T38RXJRGV"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" height=30></a>
 <a href="https://www.github.com/emdadulhq"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=30></a>
